@@ -1,0 +1,13 @@
+﻿  Functions.cpp
+D:\C++\eClassRegister\eClassRegister\Functions.cpp(10,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\eClassRegister\eClassRegister\Functions.cpp(111,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\eClassRegister\eClassRegister\Functions.cpp(126,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  SchoolClass.cpp
+D:\C++\eClassRegister\eClassRegister\SchoolClass.cpp(8,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\eClassRegister\eClassRegister\SchoolClass.cpp(26,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Student.cpp
+D:\C++\eClassRegister\eClassRegister\Student.cpp(27,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\eClassRegister\eClassRegister\Student.cpp(39,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  eClassRegister.vcxproj -> D:\C++\eClassRegister\x64\Debug\eClassRegister.exe
